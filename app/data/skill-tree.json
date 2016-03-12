@@ -1,0 +1,26 @@
+{
+    "name": "IT",
+    "children": [
+        {
+            "name": "front-basic",
+            "children": [
+                {"name": "html"},
+                {"name": "css"},
+                {"name": "javascript"}
+            ]
+        },
+        {
+            "name": "basic-subject",
+            "children": [
+                {"name": "linux"},
+                {"name": "algorithm"}
+            ]
+        },
+        {
+            "name": "backend",
+            "children": [
+                {"name": "python"}
+            ]
+        }
+    ]
+}

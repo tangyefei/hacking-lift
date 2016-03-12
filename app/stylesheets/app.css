@@ -1,0 +1,11 @@
+ul li span {
+    display: inline-block;
+    width: 20px;
+    height: 10px;
+    border: 1px dotted #ccc;
+    float: right;
+}
+
+ul li span.yes {
+    background: green;
+}
