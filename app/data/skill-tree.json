@@ -10,10 +10,11 @@
             ]
         },
         {
-            "name": "basic-subject",
+            "name": "fundamental-subject",
             "children": [
                 {"name": "linux"},
-                {"name": "algorithm"}
+                {"name": "algorithm"},
+                {"name": "open-mind"}
             ]
         },
         {
