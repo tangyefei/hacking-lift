@@ -1,11 +1,28 @@
-ul li span {
+#hacking-zone ul li {
+    overflow: hidden;
+}
+
+#hacking-zone ul li li {
+    border-bottom: 1px solid #eee;
+}
+
+#hacking-zone ul li span {
     display: inline-block;
     width: 20px;
-    height: 10px;
+    height: 18px;
     border: 1px dotted #ccc;
     float: right;
 }
 
-ul li span.yes {
+#hacking-zone ul li span.yes {
     background: green;
+}
+
+#hacking-zone ul li span.soso {
+    background: #7DF068;
+}
+
+
+#todos-zone {
+
 }
